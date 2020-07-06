@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="Inst">"हे अॅप वृद्ध नागरिकांच्या संज्ञानात्मक क्षमतांचे परीक्षण करण्यासाठी तयार केलेले आहे.त्याचप्रमाणे
+    ज्या व्यक्तींना त्यांच्या संज्ञानात्मक क्षमतेचे अपुरेपणाचे लक्षण येत आहेत, त्यांच्यासाठी सुद्धा हे अॅप उपयुक्त ठरेल.
+
+
+    परीक्षेत 3 विभाग आहेत. कृपया प्रत्येक विभागासाठी काळजीपूर्वक सूचना ऐका.कोणत्याही क्षणी,
+    जर आपल्याला पुन्हा निर्देश ऐकण्याची गरज असल्याचे वाटत असेल, तर कृपया रीड बटन वर क्लिक करा"</string>
+
+    <string name= "Instheader">चाचणीसाठी निर्देश"</string>
+
+    <string name= "Choose">"आपली इच्छित भाषा निवडा"</string>
+
+    <string name= "Start">"चाचणी सुरू करा"</string>
+
+    <string name="listinst">"सूचना ऐका"</string>
+
+    <string name="Out">"साइन आउट"</string>
+    <string name= "header">"डॅशबोर्ड"</string>
+    <string name="save">"माझी निवड लक्षात ठेवा"</string>
+    <string name="LANG">"भाषा निवडा"</string>
+
+    <string name="next">"पुढचा प्रश्न"</string>
+    <string name= "listenq">"प्रश्न ऐका"</string>
+    <string name="speak">उत्तर बोला</string>
+
+
+    <string name="QT1">"हे कोणते वर्ष आहे?"</string>
+    <string name="QT2">"हा महिना कोणता आहे?"</string>
+    <string name="QT3">"आजची तारीख काय आहे?"</string>
+    <string name="QT4">"आपण सध्या कोणत्या देशात रहात आहात?"</string>
+    <string name="QT5">"आपण सध्या कोणत्या शहरात राहता?"</string>
+
+
+
+    <string name="QM1"> "दोन अधिक बावीस अधिक दोनशे बावीस minus दोनशे बावीस minus बावीस किती आहे?"</string>
+    <string name= "QM2">"शरीराचा कोणता भाग आपल्याला स्वाद घेण्यास मदत करतो?"</string>
+    <string name= "QM2A1">"नाक"</string>
+    <string name="QM2A2">"कान"</string>
+    <string name= "QM2A3">"जीभ"</string>
+    <string name="QM2A4">"डोळे"</string>
+
+
+    <string name="QM3">"घराच्या कोणत्या खोलीत आपण सामान्यतः झोपता?"</string>
+    <string name= "QM3A1">"शयनकक्ष"</string>
+    <string name= "QM3A2">"रेखाचित्र खोली"</string>
+    <string name= "QM3A3">"स्वयंपाकघर"</string>
+    <string name= "QM3A4">"बाथरूम"</string>
+
+
+    <string name="QM4">"भिन्न गोष्ट शोधा"</string>
+    <string name= "QM4A1">"ट्रक"</string>
+    <string name= "QM4A2">"विमान"</string>
+    <string name= "QM4A3">"बस"</string>
+    <string name= "QM4A4">"गाड़ी"</string>
+
+    <string name="QM5">"पूर्वी दर्शविलेल्या वस्तूंच्या अचूक सेटची ओळख करां"</string>
+    <string name= "QM5A1">"सफरचंद, खुर्ची, नाणे"</string>
+    <string name= "QM5A2">"ऑरेंज, टेबल, कलश"</string>
+    <string name= "QM5A3">"सफरचंद, टेबल, नाणे"</string>
+    <string name= "QM5A4">"सफरचंद, टेबल, कलश"</string>
+
+
+    <string name="IDImage"> "दर्शवलेली प्रतिमा ओळखा"  </string>
+
+<string name="imgmcq">"कृपया पुढील प्रश्नांसाठी दर्शविलेले या प्रतिमा लक्षात ठेवा"</string>
+
+
+    <string name= "Question">या प्रश्नात आपल्याला इंग्रजी वाक्य दिले जाईल. कृपया लक्षात ठेवा आणि ते जसे आहे तसे पुन्हा करा.</string>
+    <string name="Question1">खालील शब्द आपणास मागे वाचत असल्याचे शब्दलेखन करा: "</string>
+    <string name="Result">तुमचे उत्तर बरोबर आहे</string>
+    <string name="Fail">क्षमस्व, आपले उत्तर चुकीचे आहे</string>
+</resources>

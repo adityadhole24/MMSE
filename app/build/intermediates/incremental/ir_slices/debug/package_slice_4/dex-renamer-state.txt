@@ -1,0 +1,4 @@
+#Tue Oct 16 16:43:05 IST 2018
+base.0=C\:\\Users\\DELL\\AndroidStudioProjects\\AndroidQuiz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

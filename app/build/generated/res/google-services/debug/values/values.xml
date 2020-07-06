@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">181085672663-17mq5gm26mkp25e0mi5ft071jghrkh67.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://androidquiz-22fda.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">181085672663</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZEjkRc75QQoI8152A-gn5cDz6GFGGs64</string>
+    <string name="google_app_id" translatable="false">1:181085672663:android:8fbbd6e026cae9ad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZEjkRc75QQoI8152A-gn5cDz6GFGGs64</string>
+    <string name="google_storage_bucket" translatable="false">androidquiz-22fda.appspot.com</string>
+    <string name="project_id" translatable="false">androidquiz-22fda</string>
+</resources>

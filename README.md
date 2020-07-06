@@ -1,0 +1,3 @@
+An Android application simulating the Mini-Mental State Examination, also known as Folstein's test. This test is aimed at detecting early signs of cognitive impairment among vulnerable individuals. 
+Implemented the Google Text-to-Speech, Speech-to-Text API's for enhancing user experience. Also used Geocoder and Calendar API's for questions requiring knowledge of location of user and the current date. 
+Provided support for 3 Indian languages as well.

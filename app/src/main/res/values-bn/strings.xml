@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="Inst">
+এটি একটা এপ্লিকেশন যা বয়স্ক নাগরিকদের স্মৃতি শক্তি পরীক্ষা করার জন্য ডিজাইন করা হয়েছে । তাছাড়া আরও অন্য কোনো ব্যক্তি যাদের স্মৃতি শক্তির অধঃপতনের লক্ষণ দেখা যায় তাদের জন্যও এই অপ্প্লিকেশনটা প্রযোজ্য।
+        এই পরীক্ষাটা তিন ভাগে ভাগ করা আছে । দয়া করে প্রতিটা ভাগের নির্দেশাবলী মনোযোগ দিয়ে শুনুন । যদি কোনো সময়ে মনে হয় যে পুনরায় নির্দেশাবলী শোনা আবশ্যক তাহলে READ AGAIN বোতাম ক্লিক করুন।</string>
+
+
+<string name="imgmcq">"আরও ছবির জন্য দেখানো এই ছবি দয়া করে মনে রাখবেন"</string>
+
+    <string name= "Choose">"আপনার পছন্দসই ভাষা নির্বাচন করুন"</string>
+
+    <string name= "Start">"পরীক্ষা শুরু করুন"</string>
+
+    <string name="listinst">"নির্দেশাবলী শুনুন"</string>
+
+    <string name="Out">"সাইন আউট"</string>
+    <string name= "header">"ড্যাশবোর্ড"</string>
+    <string name="save">"মনে রাখা"</string>
+    <string name="LANG">"ভাষা নির্বাচন করুন"</string>
+
+    <string name="next">"পরের প্রশ্ন"</string>
+    <string name= "listenq">"প্রশ্ন শুনুন"</string>
+    <string name="speak">"উত্তর বলুন"</string>
+
+    <string name="QT1">"এই বছর কোনটি?"</string>
+    <string name="QT2">"এই মাসে কোনটি?"</string>
+    <string name="QT3">"আজ কত তারিখ?"</string>
+    <string name="QT4">"আপনি বর্তমানে কোন দেশে বাস করেন?"</string>
+    <string name="QT5">"আপনি বর্তমানে কোন শহরে বাস করেন?"</string>
+
+
+    <string name="QM1"> "দুই প্লাস ২২ টি, প্লাস দুইশো বিশ২২, কিশোর ২২ বিংশ, ২২ বিয়োগ ২২?"</string>
+    <string name= "QM2">"শরীরের কোন অংশ আমাদের স্বাদে সাহায্য করে?"</string>
+    <string name= "QM2A1">"নাক"</string>
+    <string name="QM2A2">"কান"</string>
+    <string name= "QM2A3">"জিহ্বা"</string>
+    <string name="QM2A4">"চোখ"</string>
+
+
+    <string name="QM3">"আমাদের বাড়িতে কোন ঘরে সাধারণত আমরা ঘুমাতে পারি?"</string>
+    <string name= "QM3A1">"শয়নকক্ষ"</string>
+    <string name= "QM3A2">"বৈঠকখানা"</string>
+    <string name= "QM3A3">"রান্নাঘর"</string>
+    <string name= "QM3A4">"পায়খানা"</string>
+
+
+    <string name="QM4">"বিভিন্ন জিনিস খুঁজে"</string>
+    <string name= "QM4A1">"ট্রাক"</string>
+    <string name= "QM4A2">"বিমান"</string>
+    <string name= "QM4A3">"বাস"</string>
+    <string name= "QM4A4">"গাড়ী"</string>
+
+    <string name="QM5">"পূর্বে দেখানো বস্তুর সঠিক সেট সনাক্ত করুন"</string>
+    <string name= "QM5A1">"আপেল, চেয়ার, মুদ্রা"</string>
+    <string name= "QM5A2">"কমলা, টেবিল, দানি"</string>
+    <string name= "QM5A3">"আপেল, টেবিল, মুদ্রা"</string>
+    <string name= "QM5A4">"আপেল, টেবিল, দানি"</string>
+
+
+    <string name="IDImage"> "ইমেজ চিহ্নিত করুন" </string>
+
+    <string name= "Instheader">নির্দেশনা</string>
+ <string name= "Question">এই প্রশ্নে আপনার কাছে একটি ইংরেজী বাক্য অভিনয় করা হবে। এটি মনে রাখবেন এবং এটি হিসাবে পুনরাবৃত্তি করুন দয়া করে।</string>
+    <string name="Question1">নিম্নলিখিত শব্দটি আপনাকে পিছনে পাঠানো হচ্ছে বানান করুন: "</string>
+
+    <string name="Result">আপনার উত্তর সঠিক!</string>
+    <string name="Fail">দুঃখিত, আপনার উত্তর ভুল</string>
+</resources>

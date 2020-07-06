@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_dark_background"
+    tools:context=".TextBased">
+
+    <TextView
+        android:id="@+id/quesText1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="57dp"
+        android:background="@drawable/rounded_corner"
+        android:gravity="center"
+        android:text="@string/Choose"
+        android:textAppearance="@android:style/TextAppearance.Material.DialogWindowTitle"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="299dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="436dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="55dp"
+        android:background="?attr/colorButtonNormal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.592"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/quesText1" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="304dp"
+        android:layout_marginEnd="139dp"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rounded_corner"
+        android:text="@string/save"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerText"
+        app:layout_constraintVertical_bias="0.179" />
+
+
+
+
+</android.support.constraint.ConstraintLayout>

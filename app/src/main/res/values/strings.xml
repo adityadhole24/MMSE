@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="Inst">
+    This is an app designed to test the Cognitive Abilities of old-age citizens, and any other
+    individuals who are facing symptoms of degeneration of their cognitive abilities, thereby making them potential
+    candidates for this test.
+    The test has 3 sections. Please listen to the instructions for each section carefully. At any point in time,
+    if you feel that you need to listen to the instructions again, please click on the Read Again Button.
+    </string>
+    <string name="title_activity_instruction_scrolling">InstructionScrollingActivity</string>
+    <string name="Choose">"Choose your desired Language"</string>
+
+    <string name="imgmcq">"Please remember these images shown for futher questions"</string>
+    <string name="Start">"START TEST"</string>
+    <string name="listinst">"LISTEN INSTRUCTIONS"</string>
+
+
+    <string name="Instheader">"INSTRUCTIONS"</string>
+
+    <string name="Out">"SIGN OUT"</string>
+    <string name="header">"Dashboard"</string>
+    <string name="save">"SAVE"</string>
+
+    <string name="next">"NEXT"</string>
+    <string name="listenq">"LISTEN QUESTION"</string>
+    <string name="speak">"SPEAK ANSWER"</string>
+
+    <string name="LANG">"Choose Language"</string>
+
+    <string name="speech">"Say something"</string>
+    <string name="Question1">"Spell the following word being read out to you backwards "</string>
+    <string name="IDImage"> "Please Identify the image"  </string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

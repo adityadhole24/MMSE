@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 16 16:42:29 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\DELL\\AndroidStudioProjects\\AndroidQuiz\\app\\build\\intermediates\\assets\\debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
